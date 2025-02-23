@@ -1,0 +1,21 @@
+This a list of the steps I take to solve any codewars problem:
+
+1. Copy and paste the given function name into VS code
+2. before the pass statement, write the info given in notes
+3. after pass statement use notes to write the expected outcome
+4. start writing code according the steps detailed before the pass(replacing pass with this code)
+5. when stuck consult chatgpt with a query that ends with "and do not use any visual examples or representations, just explain the steps"
+6. solve the problem
+
+Helpful things to do that are not necessary:
+
+1. We know that codewars wants us to use a return statement for the solution, so I always start by declaring a variable "result" and set it equal to an empty array for 
+this example, the skip a couple lines and enter "return result".
+
+2. Look at the given test cases and copy at least 2 of the given arrays and their expected result to form a function call and print statement after the function is 
+closed. When you do this, grab an example of a tests that covers the range of possible data given.
+
+3. If you get confused by the explanations you recieve from chatgpt go to google with keywords to look up for more information or ask chat gpt to explain the specific 
+information that is confusing to you.
+
+This should help you complete any codewars or leetcode problem you are faced with.
